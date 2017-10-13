@@ -62,6 +62,8 @@ Please cite GMMCP in your publications if it helps your research:
   ```Shell
   git lfs pull
   ```
+  
+  Or alternatively download the data using this [link](https://www.dropbox.com/s/la53d1auo0kuufe/Data.zip?dl=0)
 
 ### Test
 1. select the test sequence by changing main.m file. The images for three test sequences of TUD_Crossing, TUD_Stadtmitte and PL2 are included. 
